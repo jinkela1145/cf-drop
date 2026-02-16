@@ -5,14 +5,14 @@ compatibility_date = "2025-01-02"
 assets = { directory = "web/dist", binding = "ASSETS" }
 # compatibility_flags = [ "nodejs_compat" ]
 
-[[d1_databases]]
-binding = "DB"
-database_name = "cf-drop"
-database_id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "cf-drop"
+# database_id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
-[[r2_buckets]]
-binding = "MY_BUCKET"
-bucket_name = "cf-drop"
+# [[r2_buckets]]
+# binding = "MY_BUCKET"
+# bucket_name = "cf-drop"
 
 
 
