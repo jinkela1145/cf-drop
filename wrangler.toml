@@ -14,8 +14,7 @@ database_id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 binding = "MY_BUCKET"
 bucket_name = "cf-drop"
 
-[vars]
-PASSWORD = ""
+
 
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
